@@ -2,10 +2,6 @@
 
 This is a MERN stack project designed to facilitate the booking of appointments between students and teachers. The system includes functionalities for admins to manage teachers, for teachers to manage their appointments, and for students to book appointments with teachers.
 
-## 🌐 Live Demo
-
-[Click here to view the deployed site](https://student-teacher-book-appointement.onrender.com)
-
 
 ## Table of Contents
 - [Features](#features)
@@ -72,7 +68,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment
+    git clone https://github.com/mukeshkumarsoni4/StudentTeacherAppointment.git
     ```
 
 2. **Install backend dependencies:**
